@@ -1,0 +1,14 @@
+{
+    "download": {
+        "use_gopeed": true,
+        "fallback_enabled": true,
+        "gopeed": {
+            "executable": "D:/software/gopeed/gopeed.exe",
+            "api_base": "http://127.0.0.1:9999",
+            "token": "",
+            "connections": 16,
+            "auto_start": true,
+            "headless": true
+        }
+    }
+}
